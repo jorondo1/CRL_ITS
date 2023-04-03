@@ -1,3 +1,7 @@
 filtered/
 MiSeq_4Maladies/
-.Rproj*
+cut/
+*.Rproj
+.gz
+.Rhistory
+.RData
