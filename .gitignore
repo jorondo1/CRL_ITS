@@ -5,3 +5,4 @@ cut/
 .gz
 .Rhistory
 .RData
+.DS_Store
