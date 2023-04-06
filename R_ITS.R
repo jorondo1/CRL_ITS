@@ -221,4 +221,4 @@ ps <- phyloseq(otu_table(asv, taxa_are_rows = F),
          sample_data(sampData),
          tax_table(as.matrix(taxonomy)))
 
-saveRDS(ps,"ps")
+saveRDS(ps,"ps.RDS")
